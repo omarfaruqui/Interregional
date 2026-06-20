@@ -83,17 +83,17 @@ a {
   height: 48px;
   display: grid;
   place-items: center;
-  background: var(--charcoal);
+  background: #0f2744;
   color: var(--white);
-  font-family: "Newsreader", Georgia, serif;
+  font-family: Arial, sans-serif;
   font-weight: 700;
-  font-size: 19px;
+  font-size: 30px;
 }
 
 .brand strong {
   display: block;
-  font-family: "Newsreader", Georgia, serif;
-  font-size: 27px;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 29px;
   letter-spacing: 0.04em;
   line-height: 1;
 }
@@ -207,6 +207,7 @@ h2 {
 
 h1 {
   margin-bottom: 18px;
+  font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(52px, 10vw, 132px);
   line-height: 0.86;
   letter-spacing: 0;
