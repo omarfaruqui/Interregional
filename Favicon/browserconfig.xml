@@ -2,8 +2,19 @@
 <browserconfig>
   <msapplication>
     <tile>
-      <square150x150logo src="/favicon-192x192.png"/>
+      <square70x70logo src="/Favicon/favicon-96x96.png"/>
+      <square150x150logo src="/Favicon/favicon-192x192.png"/>
+      <square310x310logo src="/Favicon/favicon-512x512.png"/>
       <TileColor>#0f2744</TileColor>
     </tile>
+    <notification>
+      <polling-uri src="https://interregional.in/"/>
+      <polling-uri2 src="https://interregional.in/"/>
+      <polling-uri3 src="https://interregional.in/"/>
+      <polling-uri4 src="https://interregional.in/"/>
+      <polling-uri5 src="https://interregional.in/"/>
+      <frequency>30</frequency>
+      <cycle>1</cycle>
+    </notification>
   </msapplication>
 </browserconfig>
