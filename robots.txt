@@ -1,0 +1,11 @@
+# INTERREGIONAL - robots.txt
+# This file instructs search engine crawlers on how to interact with the website
+
+# Allow all crawlers to access all content
+User-agent: *
+Allow: /
+
+# Disallow: (empty - all content is publicly crawlable)
+
+# Specify the sitemap location
+Sitemap: https://interregional.in/sitemap.xml
